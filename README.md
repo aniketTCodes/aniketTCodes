@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniket Tiwari</h1>
 <h3 align="center">CS undergraduate student at SRM institute of Science and Technology</h3>
 
-- 🌱 I’m currently learning **Android Development at https://in.coursera.org/professional-certificates/meta-android-developer?**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **c++,Java,Kotlin**
+- 💬 Ask me about **c++,Java,Kotlin,Flutter,Dart**
 
 - 📫 How to reach me **ani962854.at@gmail.com**
 

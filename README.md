@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [Leetcode Tracker](https://github.com/aniketTCodes/Leetcode-Tracker)
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **Flutter, Android, Kotlin, Dart**
 
 - 📫 How to reach me **ani962854.at@gmail.com**

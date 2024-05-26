@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer from India</h3>
 
 
-- 🔭 I’m currently working on [Leetcode Tracker](https://github.com/aniketTCodes/Leetcode-Tracker)
+- 🔭 I’m currently working on [GestureFy](https://github.com/aniketTCodes/GestureFy)
 
 - 💬 Ask me about **Flutter, Android, Kotlin, Dart**
 
